@@ -2,7 +2,7 @@
   "profesores": [
     {
       "nombre": "Sergie",
-      "Apellido": "Code",
+      "Apellido": "Codere",
       "materias": [
         {
           "nombre": "NoseJS desde cero"
